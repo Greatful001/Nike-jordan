@@ -38,7 +38,7 @@ a{
 }
 
 .card-img:hover{
-     transform: rotateY(-20px);
+     transform: rotateY(20%) ;
      animation: move 2s linear infinite;
 }
 @keyframes  move{
